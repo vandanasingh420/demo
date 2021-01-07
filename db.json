@@ -1,14 +1,36 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+ 
+  {
+    "name": "Vandana Ajay Kumar Singh",
+    "fax": "213213",
+    "phone": "7977316607",
+    "socialLink": "sdsdfsfdgffg",
+    "skills": "dfdsfsfdfgdfg",
+    "address": "ffsdfsdfsfddfg",
+    "Id": 5454,
+    "status": true,
+    "id": 6
+  },
+  {
+    "name": "hb",
+    "fax": "1565266",
+    "phone": "3265363622",
+    "socialLink": "bnvbvb",
+    "skills": "bvbv",
+    "address": "bvbvb",
+    "Id": 2765,
+    "status": true,
+    "id": 7
+  },
+  {
+    "name": "bvbv",
+    "fax": "54533",
+    "phone": "235665586",
+    "socialLink": "nb nb",
+    "skills": "bn bn",
+    "address": "nbnbn",
+    "Id": 2786,
+    "status": true,
+    "id": 8
   }
-}
+]
